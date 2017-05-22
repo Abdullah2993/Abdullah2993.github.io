@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdullah Saleem</title>
+    <link>http://abdullahsaleem.com/</link>
+    <description>Recent content on Abdullah Saleem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>a.saleem2993@gmail.com (Abdullah Saleem)</managingEditor>
+    <webMaster>a.saleem2993@gmail.com (Abdullah Saleem)</webMaster>
+    
+	<atom:link href="http://abdullahsaleem.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
